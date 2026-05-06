@@ -1,0 +1,47 @@
+/* App.css */
+
+div {
+  max-width: 500px;
+  margin: auto;
+  background: #ddd6d6;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Background */
+body {
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  font-family: Arial, sans-serif;
+}
+
+/* Heading */
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+/* Input fields */
+input {
+  padding: 10px;
+  margin: 8px 0;
+  width: 95%;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+/* Button */
+button {
+  padding: 10px 15px;
+  margin: 10px 5px;
+  background-color: #4facfe;
+  color: rgb(86, 45, 45);
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* Button hover */
+button:hover {
+  background-color: #007bff;
+}

@@ -1,0 +1,9 @@
+# React
+node_modules/
+build/
+
+# Spring Boot
+target/
+
+# env files
+.env
